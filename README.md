@@ -11,7 +11,5 @@ Below is the look of the app
 ![1](https://github.com/pandyama/MistplayChallenge/blob/master/image1.PNG)
 ---
 
-![Screenshot](image1.png)
-
 ![2](https://github.com/pandyama/MistplayChallenge/blob/master/image2.PNG)
 ---
