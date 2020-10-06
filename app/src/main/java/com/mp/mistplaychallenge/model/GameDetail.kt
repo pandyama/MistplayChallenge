@@ -1,7 +1,7 @@
 package com.mp.mistplaychallenge.model
 
 /**
- *  GameDetail - data class containing game detail info
+ *  GameDetail - data class containing more info on each game
  *  Data classes act like data holder classes and helps with avoiding to write extra code
  *
  *  @param title - holds the game title

@@ -13,14 +13,14 @@ import kotlinx.android.synthetic.main.game_detail.view.*
 
 /**
  *  ChildAdapter
- *      - This class acts as the adapter class for the Horizontal Recyclerview containing list of games
+ *      - This class is the adapter class for the Horizontal Recyclerview containing list of games
  *      - It has 3 class member functions implemented as well as a viewholder class declared
  *
  *  onCreateViewHolder
- *      - this function is responsible for creating the viewholder that will contain each item using the layout defined Resources
+ *      - this function is responsible for creating the viewholder that will contain each item using the layout defined in Resources
  *
  *  onBindViewHolder
- *      - this function is called for each viewHolder and the data for that respective item is passed to the viewHolder as well
+ *      - this function is called for each viewHolder and the data for that respective item is passed to the viewHolder
  *
  *  getItemCount
  *      - returns the size of the data

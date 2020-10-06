@@ -1,7 +1,7 @@
 package com.mp.mistplaychallenge.model
 
 /**
- *  GameCategory - data class that containing Game category and list of games
+ *  GameCategory - data class that contains Game categories and list of games
  *  Data classes act like data holder classes and helps with avoiding to write extra code
  *
  *  @param list_title - holds the Game category title

@@ -12,14 +12,14 @@ import kotlinx.android.synthetic.main.game_category.view.*
 
 /**
  *  ParentAdapter
- *      - This class acts as the adapter class for the Vertical Recyclerview in the app
+ *      - This class is the adapter for the Vertical Recyclerview in the app
  *      - It has 3 class member functions implemented as well as a viewholder class declared
  *
  *  onCreateViewHolder
- *      - this function is responsible for creating the viewholder that will contain each item using the layout defined Resources
+ *      - this function is responsible for creating the viewholder that will contain each item using the layout defined in Resources
  *
  *  onBindViewHolder
- *      - this function is called for each viewHolder and the data for that respective item is passed to the viewHolder as well
+ *      - this function is called for each viewHolder and the data for that respective item is passed to the viewHolder
  *
  *  getItemCount
  *      - returns the size of the data
