@@ -8,8 +8,8 @@ Features
 
 Below is the look of the app
 
-![1](https://github.com/pandyama/MistplayChallenge/blob/master/image1.PNG)
+![1](https://github.com/pandyama/MistplayChallenge/blob/main/image1.PNG)
 ---
 
-![2](https://github.com/pandyama/MistplayChallenge/blob/master/image2.PNG)
+![2](https://github.com/pandyama/MistplayChallenge/blob/main/image2.PNG)
 ---
