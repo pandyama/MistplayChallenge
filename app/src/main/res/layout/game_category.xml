@@ -17,7 +17,7 @@
         android:fontFamily="@font/cagliostro"
         android:text="Category"
         android:textColor="@color/mainText"
-        android:textSize="18sp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
